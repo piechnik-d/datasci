@@ -2,12 +2,12 @@
 title: "Denise A. Piechnik, PhD"
 image: "Dpiechnik_image.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
     url: "https://linkedin.com/in/dapiechnik 'target = _blank' "
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
+#  - label: Twitter
+#    url: "https://twitter.com/"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/piechnik-d"
   - label: Email
     url: "mailto:piechnik.da@gmail.com"
 output:
@@ -18,3 +18,4 @@ site: distill::distill_website
 Raised on a farm in mid-Michigan, I found my passion for science in California doing ecological research. Now residing in NY, I am an aspiring data scientist and fiddle player. 
 
 I recently left an academic position to change careers to apply my skills to conservation and sustainability problem-solving.
+
