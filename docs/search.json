@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-04-07T15:17:24-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Denise A. Piechnik, PhD",
+      "author": [],
+      "contents": "\n\n          \n          \n          datasci\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Denise A. Piechnik, PhD\n          \n          \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and fiddle\n              player.\n              I recently left an academic position to change careers\n              to apply my skills to conservation and sustainability\n              problem-solving.\n            \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and fiddle\n              player.\n              I recently left an academic position to change careers\n              to apply my skills to conservation and sustainability\n              problem-solving.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-04-07T15:58:22-04:00"
+    }
+  ],
+  "collections": []
+}
