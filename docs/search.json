@@ -6,14 +6,28 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-04-07T16:39:36-04:00"
+      "last_modified": "2024-04-07T18:17:16-04:00"
     },
     {
       "path": "index.html",
       "title": "Denise A. Piechnik, PhD",
       "author": [],
-      "contents": "\n\n          \n          \n          datasci\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Denise A. Piechnik, PhD\n          \n          \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and fiddle\n              player.\n              I recently left an academic position to change careers\n              to apply my skills to conservation and sustainability\n              problem-solving.\n            \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and fiddle\n              player.\n              I recently left an academic position to change careers\n              to apply my skills to conservation and sustainability\n              problem-solving.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-04-07T16:39:36-04:00"
+      "contents": "\n\n          \n          \n          Denise Piechnik - Data Science\n          \n          \n          Home\n          Resume\n          Sample Projects\n          ☰\n          \n          \n      \n        \n          \n            Denise A. Piechnik, PhD\n          \n          \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and a\n              fiddle player.\n              I recently left an academic position to change careers\n              to apply my skills to conservation and sustainability\n              problem-solving.\n            \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and a\n              fiddle player.\n              I recently left an academic position to change careers\n              to apply my skills to conservation and sustainability\n              problem-solving.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-04-07T18:17:16-04:00"
+    },
+    {
+      "path": "sampleprojects.html",
+      "title": "Sample Projects",
+      "description": "Sample projects in data science.\n",
+      "author": [
+        {
+          "name": "Denise Piechnik",
+          "url": "https://piechnik-d.github.io/datasci"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nTitle: Project 1\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2024-04-07T18:17:16-04:00"
     }
   ],
   "collections": []
