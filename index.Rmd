@@ -1,6 +1,6 @@
 ---
 title: "Denise A. Piechnik, PhD"
-image: "Dpiechnik_image.jpg"
+image: "Dpiech_image300.jpeg"
 links:
   - label: '`r fontawesome::fa("linkedin", height = "25px")`'
     url: "https://linkedin.com/in/dapiechnik 'target = _blank' "
