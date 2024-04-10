@@ -9,7 +9,7 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Resume"
+    - text: "Resume & Career Summary"
       href: about.html
     - text: "Sample Projects"
       href: sampleprojects.html

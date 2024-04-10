@@ -1,0 +1,10 @@
+add this back in after the ymal statement
+
+Title: Project 1
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at #<https://rstudio.github.io/distill>.

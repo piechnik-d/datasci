@@ -18,5 +18,5 @@ site: distill::distill_website
  
 Raised on a farm in mid-Michigan, I found my passion for science in California doing ecological research.  Now residing in NY, I am an aspiring data scientist and a fiddle player.  
 
-I recently left an academic position to change careers to apply my skills to conservation and sustainability problem-solving.
+I recently left an academic position to change careers so that I can apply my diverse skillset sustainability and environmental problem-solving.
 
