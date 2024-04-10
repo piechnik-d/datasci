@@ -1,0 +1,55 @@
+---
+title: CV
+name: Denise A.
+surname: Piechnik
+position: "Data Scientist"
+#address: "School of Physics & Chemistry, École Normale Supérieure"
+#phone: +1 22 3333 4444
+pronouns: she/her
+www: piechnik-d.github.io/datasci
+email: "piechnik.da@gmail.com"
+#twitter: mariecurie
+github: piechnik-d
+linkedin: dapiechnik
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "A project manager with 25 years of experience in research, data analytics and GIS seeking new opportunities to serve sustainability and environmental-related projects."
+output:
+  vitae::markdowncv:
+    theme: kjhealy
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+## Some stuff about me
+
+ * Project manager that leads cross-functional and cross-disciplinary collaborations
+ 
+ * Certified Ecologist with expertise in research, project management, and data analysis of spatial and tabular data.
+ 
+ * Adept at statistics analysis using R programming, Python, Tableau, Arc Geographic Information Systems 
+
+## Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "PhD - Ecology (Conservation)", "2007", "University of California", "Davis, CA",
+  "B.S. Biology (Ecology)", "1995", "San Francisco State University", "San Francisco, CA"
+) %>%
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+
+## Publications
+
+```{r}
+library(dplyr)
+knitr::write_bib(c("vitae", "tibble"), "packages.bib")
+
+bibliography_entries("packages.bib") %>%
+  arrange(desc(author$family), issued)
+```
